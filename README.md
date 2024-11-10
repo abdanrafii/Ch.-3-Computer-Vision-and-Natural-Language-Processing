@@ -8,7 +8,7 @@ This repository contains team-based assignments on Computer Vision and Natural L
 
 ## Notebooks Overview
 
-### 1. Image Enhancement Techniques (`03_Kelompok_B_1.ipynb`)
+### 1. Image Enhancement Techniques (`03_Tim_1_1.ipynb`)
 
 This notebook explores image enhancement algorithms to improve photo quality, even under low-light conditions, by simulating smartphone camera technologies.
 
@@ -22,7 +22,7 @@ This notebook explores image enhancement algorithms to improve photo quality, ev
 
 ---
 
-### 2. Transfer Learning for Handwritten Digit Classification (`02_Kelompok_B_2.ipynb`)
+### 2. Transfer Learning for Handwritten Digit Classification (`03_Tim_1_2.ipynb`)
 
 This notebook implements transfer learning on pre-trained models to recognize handwritten digits using the MNIST dataset.
 
@@ -35,7 +35,7 @@ This notebook implements transfer learning on pre-trained models to recognize ha
 
 ---
 
-### 3. Object Detection using YOLOv5 (`02_Kelompok_B_3.ipynb`)
+### 3. Object Detection using YOLOv5 (`03_Tim_1_3.ipynb`)
 
 This notebook demonstrates real-time object detection in video streams using a pretrained YOLOv5 model on videos sourced from YouTube.
 
@@ -48,7 +48,7 @@ This notebook demonstrates real-time object detection in video streams using a p
 
 ---
 
-### 4. Disaster Tweet Classification with BERT (`02_Kelompok_B_4.ipynb`)
+### 4. Disaster Tweet Classification with BERT (`03_Tim_1_4.ipynb`)
 
 This notebook classifies tweets related to disasters using BERT, aiming to support disaster response by analyzing public tweets.
 
