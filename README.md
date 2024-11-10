@@ -8,7 +8,7 @@ This repository contains team-based assignments on Computer Vision and Natural L
 
 ## Notebooks Overview
 
-### 1. Image Enhancement Techniques (`02_Kelompok_B_1.ipynb`)
+### 1. Image Enhancement Techniques (`03_Kelompok_B_1.ipynb`)
 
 This notebook explores image enhancement algorithms to improve photo quality, even under low-light conditions, by simulating smartphone camera technologies.
 
